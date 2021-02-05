@@ -2,4 +2,4 @@
 
 Dummy tests are in `jenkins-tests`
 
-Tested for Yorologo
+Tested for Yorologo.
